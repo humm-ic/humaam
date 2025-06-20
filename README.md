@@ -20,10 +20,10 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-Saya adalah seorang **Full Stack Developer** dan **Software Engineer** yang penuh semangat dalam menciptakan solusi digital yang efisien dan elegan.  
+Saya adalah seorang **Front End** dan **Content Creator** yang penuh semangat dalam menciptakan solusi digital yang efisien dan elegan.  
 Berbekal pengalaman dan rasa ingin tahu yang tak pernah padam, saya terus mengejar kesempurnaan dalam setiap produk yang saya bangun.
 
-- 🌐 Website: [](https://my-portfolio-1990.vercel.app)
+- 🌐 Website: [https://my-portfolio-1990.vercel.app](https://my-portfolio-1990.vercel.app)
 - 💬 Saya terbuka untuk diskusi, kolaborasi, dan kontribusi proyek open source.
 - 📫 Email: humam3201@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/humaam-sukarna](https://linkedin.com/in/humaam-sukarna)
@@ -49,5 +49,6 @@ Git, GitHub, Vercel, Docker, Postman
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=humm-ic&theme=radical" alt="streak" /> </p>
 Kutipan Hari Ini
 "Menulis kode bukan hanya tentang menyusun logika, tapi juga tentang menuliskan masa depan."
+
 📰 Kolom Teknologi Harian
-<p align="center"> <em>Dengan semangat masa lalu dan teknologi masa depan, saya terus melangkah.</em> </p> """
+<p align="center"> <em>Dengan semangat masa lalu dan teknologi masa depan, saya terus melangkah.</em> </p> 
