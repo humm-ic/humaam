@@ -20,10 +20,10 @@
 ---
 
 ## 👨‍💻 Tentang Saya
-Saya adalah seorang **Front End** dan **Content Creator** yang penuh semangat dalam menciptakan solusi digital yang efisien dan elegan.  
+Saya adalah seorang **Web Developer** dan **Mobile Developer** yang penuh semangat dalam menciptakan solusi digital yang efisien dan elegan.  
 Berbekal pengalaman dan rasa ingin tahu yang tak pernah padam, saya terus mengejar kesempurnaan dalam setiap produk yang saya bangun.
 
-- 🌐 Website: [https://my-portfolio-1990.vercel.app](https://my-portfolio-1990.vercel.app)
+- 🌐 Portfolio: [https://my-portfolio-1990.vercel.app](https://my-portfolio-1990.vercel.app)
 - 💬 Saya terbuka untuk diskusi, kolaborasi, dan kontribusi proyek open source.
 - 📫 Email: humam3201@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/humaam-sukarna](https://linkedin.com/in/humaam-sukarna)
