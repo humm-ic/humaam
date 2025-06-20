@@ -46,9 +46,9 @@ MySQL
 Git, GitHub, Vercel, Docker, Postman
 
 ## 📈 Statistik GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> </p>
 Kutipan Hari Ini
 "Menulis kode bukan hanya tentang menyusun logika, tapi juga tentang menuliskan masa depan."
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> </p>
 
-<p align="center"> <em>📰 Kolom Teknologi Harian</em> </p>
+
 <p align="center"> <em>Dengan semangat masa lalu dan teknologi masa depan, saya terus melangkah.</em> </p> 
