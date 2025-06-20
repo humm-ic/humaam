@@ -15,7 +15,7 @@
 ---
 
 > _"Zaman boleh berubah, teknologi terus berkembang, tetapi prinsip kerja keras, rasa ingin tahu, dan etika tetap menjadi fondasi setiap baris kode yang ditulis."_  
-> — 🌿 _Berita Teknologi, 1990_
+> —  _Berita Teknologi_
 
 ---
 
@@ -29,9 +29,9 @@ Berbekal pengalaman dan rasa ingin tahu yang tak pernah padam, saya terus mengej
 - 💼 LinkedIn: [linkedin.com/in/humaam-sukarna](https://linkedin.com/in/humaam-sukarna)
 
 ## 🛠️ Tech Stack
-bash
+
 💻 Languages:
-PHP, JavaScript, TypeScript, Go
+PHP & Laravel, JavaScript, TypeScript, Golang
 
 🌐 Frontend:
 React, Next.js, Bootstrap, Tailwind CSS
@@ -40,15 +40,15 @@ React, Next.js, Bootstrap, Tailwind CSS
 Laravel, Node.js, Golang
 
 🗄️ Database:
-MySQL, PostgreSQL, SQLite
+MySQL
 
 🔧 Tools & Platforms:
 Git, GitHub, Vercel, Docker, Postman
 
 ## 📈 Statistik GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=humm-ic&theme=radical" alt="streak" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=humm-ic&show_icons=true&theme=radical" alt="stats" /> <br/> </p>
 Kutipan Hari Ini
 "Menulis kode bukan hanya tentang menyusun logika, tapi juga tentang menuliskan masa depan."
 
-📰 Kolom Teknologi Harian
+<p align="center"> <em>📰 Kolom Teknologi Harian</em> </p>
 <p align="center"> <em>Dengan semangat masa lalu dan teknologi masa depan, saya terus melangkah.</em> </p> 
